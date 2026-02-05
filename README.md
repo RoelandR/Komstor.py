@@ -34,3 +34,6 @@ URL: when you fill in a complete URL, with Open URL butten you can get more info
 
 Sorry for bad english,
 with kind regards, Roeland Riemens 05 feb 2026
+
+
+I have added my partial filled database for you to try functionality
